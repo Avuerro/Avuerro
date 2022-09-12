@@ -24,8 +24,8 @@ I'm currently looking for an interesting and challenging job in the field of com
 <br/>
 
 - 🔭 I’m currently working on **Light Field Networks**
-
 - 🌱 I’m currently learning **Implicit Neural Representations**
+- :page_facing_up: Read more about my projects on https://avuerro.github.io
 - 📫 How to reach me: chihabamghane **AT** gmail **DOT** com 
 
 <!-- tbd -->
